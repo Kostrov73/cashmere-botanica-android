@@ -129,6 +129,18 @@ No open-source license has been selected for this repository yet. Unless a licen
 
 ---
 
+📲 Download Cashmere Botanica
+
+Latest version: 1.8.0
+
+[⬇️ Download APK for Android](https://github.com/Kostrov73/cashmere-botanica-android/releases/latest)
+
+Download the latest version of Cashmere Botanica directly from GitHub Releases.
+
+Android application. Installation from outside Google Play may require permission to install unknown apps.
+
+---
+
 <div align="center">
 
 Made with care for greener homes. 🌱  
